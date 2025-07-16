@@ -1,6 +1,6 @@
-## omo50 Protective License Version 1, September 28th 2024
+## Brew Protective License Version 1, July 16th 2025
 
-Copyright © omo50, 2024. <raamvion@gmail.com>
+Copyright © JavaBrew, omo50, 2025.
 
 # 0. Foreword
 
