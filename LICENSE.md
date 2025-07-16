@@ -44,7 +44,7 @@ under This License.
 You may not sell it without written permission from the author.
 
 2.2.1
-Written permission, if not responded to within ``90 days`` from the permission request, you may assume permission is automatically granted
+Written permission, if not responded to within ``90 days`` from the permission request, you may assume permission is automatically declined
 
 2.3.
 If you modify or edit this Source Code, the original author(s) must be credited in a prominent, easy to view place.
